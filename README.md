@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Aurélia 🤗
 <br>
--Web Developer from France🚀-
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2000&pause=950&color=6E36F7&center=true&lines=-+Web+Developer+from+France%F0%9F%9A%80+-">
+</p>
 
 ### 💃🏻 About Me:
 Love to travel play games, videos games and RPG.<br>Tired (of people) as a receptionist during 11 long years, I begin to finally think about myself and what I truly love.<br>I start learning to code in 2023 and join an intensive remote boot camp in May 2024.<br><br>
@@ -19,6 +21,70 @@ REACT NATIVE - TAILWIND <br><br>
 <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 <br>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 <br><br>
+
+<!-- Projects -->
+<h1 align="center">My latest projects 👨‍💻</h1>
+<div align="center">
+  <table>
+        <tr>
+           <td width="50%">
+                <h3 align="center">
+                    <a href="#" rel="noreferrer"> Chemin Montessori 👼🏼</a>
+                </h3>
+                <p align="center">
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/montessori.gif" alt="miniature"/> </a>
+                    <p align="center">
+                        Montessori workshop sales site ~ Work in progress
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						I used React.js & Node.js/Express.js.
+					</details>
+            </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://cyber-mart.netlify.app/" target="_blank" rel="noreferrer"> CyberMart 📎</a>
+                </h3>
+                <p align="center">
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/cybermart.gif" alt="miniature"/> </a>
+                    <p align="center">
+                        Back to the futur in 90's !
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						I used React & Node.js.
+					</details>
+            </p>
+            </td>
+            <td width="50%">
+                            <h3 align="center">
+                    <a href="https://univers-de-blibli.netlify.app/" target="_blank" rel="noreferrer">L'univers de Blibli 🌱</a>
+                </h3>
+                <p align="center">
+                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/universblibli.gif" alt="miniature" width="50%"/> </a>
+                    <p align="center">
+                        Tribute to Ghibli Studio. Mini-Games and library.
+                    </p>
+                    <details>
+                        <summary>
+                        <b>Note 📝</b>
+                        </summary>
+                        I used React & Node.js/Express.js.<br>Also used GSAP for animations.
+                    </details>
+                </p>
+                </p>
+            </td>
+        </tr>
+  </table>
+</div>
+
+<br>
+    
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aur3liaP&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aur3liaP&theme=discord_old_blurple&hide_border=false)<br/>
