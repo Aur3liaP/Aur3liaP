@@ -61,12 +61,13 @@ REACT NATIVE - TAILWIND <br><br>
 					</details>
             </p>
             </td>
+	  <tr>
             <td width="50%">
                             <h3 align="center">
                     <a href="https://univers-de-blibli.netlify.app/" target="_blank" rel="noreferrer">L'univers de Blibli 🌱</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/universblibli.gif" alt="miniature" width="50%"/> </a>
+                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/universblibli.gif" alt="miniature" width="100%"/> </a>
                     <p align="center">
                         Tribute to Ghibli Studio. Mini-Games and library.
                     </p>
