@@ -32,7 +32,7 @@ REACT NATIVE - TAILWIND <br><br>
                     <a href="#" rel="noreferrer"> Chemin Montessori 👼🏼</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/montessori.gif" alt="miniature"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="./static/montessori.gif" alt="miniature"/> </a>
                     <p align="center">
                         Montessori workshop sales site ~ Work in progress
                     </p>
@@ -49,7 +49,7 @@ REACT NATIVE - TAILWIND <br><br>
                     <a href="https://cyber-mart.netlify.app/" target="_blank" rel="noreferrer"> CyberMart 📎</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/cybermart.gif" alt="miniature"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="./static/cybermart.gif" alt="miniature"/> </a>
                     <p align="center">
                         Back to the futur in 90's !
                     </p>
@@ -67,7 +67,7 @@ REACT NATIVE - TAILWIND <br><br>
                     <a href="https://univers-de-blibli.netlify.app/" target="_blank" rel="noreferrer">L'univers de Blibli 🌱</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/universblibli.gif" alt="miniature" width="100%"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="./static/universblibli.gif" alt="miniature" width="100%"/> </a>
                     <p align="center">
                         Tribute to Ghibli Studio. Mini-Games and library.
                     </p>
