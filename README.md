@@ -27,6 +27,42 @@ REACT NATIVE - TAILWIND <br><br>
 <div align="center">
   <table>
         <tr>
+	    <tr>	
+		    <td width="50%">
+                <h3 align="center">
+                    <a href="#" rel="noreferrer"> Pokédex Team Rocket 📱</a>
+                </h3>
+                <p align="center">
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="miniature"/> </a>
+                    <p align="center">
+                        Interactive Pokedex App
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						I used React Native, TypeScript, Express & SQLite.
+					</details>
+            </p>
+            </td>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://cyber-mart.netlify.app/" target="_blank" rel="noreferrer"> Renardor's Revenge 🦊</a>
+                </h3>
+                <p align="center">
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="miniature"/> </a>
+                    <p align="center">
+                        TowerDefense game 
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						I used Unity & C#
+					</details>
+            </p>
+            </td>
+	    <tr>
            <td width="50%">
                 <h3 align="center">
                     <a href="#" rel="noreferrer"> Chemin Montessori 👼🏼</a>
@@ -34,7 +70,7 @@ REACT NATIVE - TAILWIND <br><br>
                 <p align="center">
                     <a href="#" target="_blank" rel="noreferrer"> <img src="./static/montessori.gif" alt="miniature"/> </a>
                     <p align="center">
-                        Montessori workshop sales site ~ Work in progress
+                        Montessori workshop sales site
                     </p>
 					<details>
 						<summary>
@@ -61,7 +97,7 @@ REACT NATIVE - TAILWIND <br><br>
 					</details>
             </p>
             </td>
-	  <tr>
+	    <tr>
             <td width="50%">
                             <h3 align="center">
                     <a href="https://univers-de-blibli.netlify.app/" target="_blank" rel="noreferrer">L'univers de Blibli 🌱</a>
