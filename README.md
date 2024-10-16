@@ -7,10 +7,10 @@
 ### 💃🏻 About Me:
 Love to travel play games, videos games and RPG.<br>Tired (of people) as a receptionist during 11 long years, I begin to finally think about myself and what I truly love.<br>I start learning to code in 2023 and join an intensive remote boot camp in May 2024.<br><br>
 ### 🌱 Currently learning at Wild Code School<br>
-REACT - NODE.JS - EXPRESS.JS - SPLINE - MYSQL - GSAP - JS...<br>
+REACT - NODE.JS - EXPRESS.JS - SPLINE - MYSQL - GSAP - JS - REACT NATIVE - TYPESCRIPT...<br>
 
 ### Upcoming !<br>
-REACT NATIVE - TAILWIND <br><br>
+PHP - TAILWIND <br><br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurélia-pic-7bb586204/) 
