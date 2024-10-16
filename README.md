@@ -33,7 +33,7 @@ REACT NATIVE - TAILWIND <br><br>
                     <a href="#" rel="noreferrer"> Pokédex Team Rocket 📱</a>
                 </h3>
                 <p align="center">
-                    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="miniature"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <img src="./static/pokedex.gif" height="200px" alt="miniature"/> </a>
                     <p align="center">
                         Interactive Pokedex App
                     </p>
@@ -50,7 +50,7 @@ REACT NATIVE - TAILWIND <br><br>
                     <a href="https://cyber-mart.netlify.app/" target="_blank" rel="noreferrer"> Renardor's Revenge 🦊</a>
                 </h3>
                 <p align="center">
-                    <a href="#" target="_blank" rel="noreferrer"> <img src="" alt="miniature"/> </a>
+                    <a href="#" target="_blank" rel="noreferrer"> <video src="https://github.com/user-attachments/assets/6dc90891-3333-4596-baa5-99cc14ce4c6c" alt="miniature"/> </a>
                     <p align="center">
                         TowerDefense game 
                     </p>
