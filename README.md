@@ -7,18 +7,18 @@
 ### 💃🏻 About Me:
 Love to travel play games, videos games and RPG.<br>Tired (of people) as a receptionist during 11 long years, I begin to finally think about myself and what I truly love.<br>I start learning to code in 2023 and join an intensive remote boot camp in May 2024.<br><br>
 ### 🌱 Currently learning at Wild Code School<br>
-REACT - NODE.JS - EXPRESS.JS - SPLINE - MYSQL - GSAP - JS - REACT NATIVE - TYPESCRIPT...<br>
+REACT - NEXT - NODE.JS - EXPRESS.JS - SPLINE - MYSQL - GSAP - JS - REACT NATIVE - TYPESCRIPT - TAILWIND...<br>
 
 ### Upcoming !<br>
-PHP - TAILWIND <br><br>
+PHP <br><br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurélia-pic-7bb586204/) 
 
 ### 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+ ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)  ![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -29,8 +29,24 @@ PHP - TAILWIND <br><br>
 <div align="center">
   <table>
         <tr>
-	    <tr>	
-		    <td width="50%">
+		<td width="50%">
+                <h3 align="center">
+                    <a href="https://www.aureliapic.fr/" rel="noreferrer"> Portfolio ! 🌸</a>
+                </h3>
+                <p align="center">
+                    <a href="https://www.aureliapic.fr/" target="_blank" rel="noreferrer"> <img src="./static/portfolio.png" max-height="300px" alt="miniature"/> </a>
+                    <p align="center">
+                        My deployed portfolio
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						I used Next.js, TypeScript, Tailwind & Gsap.
+					</details>
+            		</p>
+           	 </td>
+		<td width="50%">
                 <h3 align="center">
                     <a href="#" rel="noreferrer"> Pokédex Team Rocket 📱</a>
                 </h3>
@@ -45,8 +61,9 @@ PHP - TAILWIND <br><br>
 						</summary>
 						I used React Native, TypeScript, Express & SQLite.
 					</details>
-            </p>
-            </td>
+            		</p>
+            	</td>
+	     <tr>
             <td width="50%">
                 <h3 align="center">
                     <a href="#" target="_blank" rel="noreferrer"> Renardor's Revenge 🦊</a>
@@ -64,7 +81,6 @@ PHP - TAILWIND <br><br>
 					</details>
             </p>
             </td>
-	    <tr>
            <td width="50%">
                 <h3 align="center">
                     <a href="#" rel="noreferrer"> Chemin Montessori 👼🏼</a>
@@ -82,6 +98,7 @@ PHP - TAILWIND <br><br>
 					</details>
             </p>
             </td>
+	    <tr>
             <td width="50%">
                 <h3 align="center">
                     <a href="https://cyber-mart.netlify.app/" target="_blank" rel="noreferrer"> CyberMart 📎</a>
@@ -99,7 +116,6 @@ PHP - TAILWIND <br><br>
 					</details>
             </p>
             </td>
-	    <tr>
             <td width="50%">
                             <h3 align="center">
                     <a href="https://univers-de-blibli.netlify.app/" target="_blank" rel="noreferrer">L'univers de Blibli 🌱</a>
