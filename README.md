@@ -5,15 +5,17 @@
 </p>
 
 ### 💃🏻 About Me:
-Love to travel play games, videos games and RPG.<br>Tired (of people) as a receptionist during 11 long years, I begin to finally think about myself and what I truly love.<br>I start learning to code in 2023 and join an intensive remote boot camp in May 2024.<br><br>
-### 🌱 Currently learning at Wild Code School<br>
-REACT - NEXT - NODE.JS - EXPRESS.JS - SPLINE - MYSQL - GSAP - JS - REACT NATIVE - TYPESCRIPT - TAILWIND...<br>
+Love to travel, play video games, and RPGs.<br>Tired (of people) after working 11 years as a receptionist, I finally started thinking about myself and what I truly love.<br>I began learning to code in 2023 and joined an intensive remote boot camp in May 2024 at Wild Code School.<br> 
+Currently, I'm progressing in a comprehensive training at Diginamic, focusing on a broader tech stack with a focus on both frontend and backend technologies.<br><br>
 
-### Upcoming !<br>
-PHP <br><br>
+### 🌱 Currently learning at Diginamic<br>
+JAVASCRIPT - NODE.JS - JAVA - SPRING - ANGULAR - UML - MAVEN - DOCKER <br>
+
+### Previously ~<br>
+REACT - NEXT - NODE.JS - EXPRESS.JS - SPLINE - MYSQL - GSAP - JS - REACT NATIVE - TYPESCRIPT - TAILWIND <br><br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurélia-pic-7bb586204/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurélia-pic-7bb586204/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23F0F0F0.svg?logo=portfolio&logoColor=black)](https://www.aureliapic.fr)
 
 ### 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
