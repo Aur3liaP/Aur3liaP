@@ -5,14 +5,16 @@
 </p>
 
 ### 💃🏻 About Me:
-Love to travel, play video games, and RPGs.<br>Tired (of people) after working 11 years as a receptionist, I finally started thinking about myself and what I truly love.<br>I began learning to code in 2023 and joined an intensive remote boot camp in May 2024 at Wild Code School.<br> 
-Currently, I'm progressing in a comprehensive training at Diginamic, focusing on a broader tech stack with a focus on both frontend and backend technologies.<br><br>
+Full Stack Developer with a strong interest in frontend and product thinking.
+I love turning ideas into concrete, useful applications and building projects end-to-end.
+With a background in customer-facing roles, I bring a user-centric and pragmatic approach to development.
+Coding for almost **2 years**, driven by curiosity and continuous learning.<br><br>
 
-### 🌱 Currently learning at Diginamic<br>
-JAVASCRIPT - NODE.JS - JAVA - SPRING - ANGULAR - UML - MAVEN - DOCKER <br>
+### 🌱 Learning<br>
+NESTJS <br>
 
 ### Previously ~<br>
-REACT - NEXT - NODE.JS - EXPRESS.JS - SPLINE - MYSQL - GSAP - JS - REACT NATIVE - TYPESCRIPT - TAILWIND <br><br>
+REACT - NEXT - NODE.JS - EXPRESS.JS - MYSQL - JAVA - SPRING - ANGULAR - UML - DOCKER - REACT NATIVE - TYPESCRIPT - TAILWIND - SPLINE <br><br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurélia-pic-7bb586204/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23F0F0F0.svg?logo=portfolio&logoColor=black)](https://www.aureliapic.fr)
