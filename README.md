@@ -50,7 +50,7 @@ LLM APIs · MCP · RAG · Agentic tools · AI-augmented engineering
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center"><a href="#" target="_blank" rel="noreferrer">Nimble 🎲</a></h3>
+        <h3 align="center">Nimble 🎲</h3>
         <p align="center">
           <a href="#" target="_blank" rel="noreferrer"><img src="./static/nimble.gif" alt="Nimble preview"/></a>
         </p>
@@ -61,7 +61,7 @@ LLM APIs · MCP · RAG · Agentic tools · AI-augmented engineering
         </details>
       </td>
       <td width="50%">
-        <h3 align="center"><a href="#" target="_blank" rel="noreferrer">Altivent 🤝</a></h3>
+        <h3 align="center">Altivent 🤝</h3>
         <p align="center">
           <a href="#" target="_blank" rel="noreferrer"><img src="./static/altivent.png" alt="Altivent preview"/></a>
         </p>
@@ -85,7 +85,7 @@ LLM APIs · MCP · RAG · Agentic tools · AI-augmented engineering
         </details>
       </td>
       <td width="50%">
-        <h3 align="center"><a href="#" rel="noreferrer">Pokédex Team Rocket 📱</a></h3>
+        <h3 align="center">Pokédex Team Rocket 📱</h3>
         <p align="center">
           <a href="#" target="_blank" rel="noreferrer"><img src="./static/pokedex.gif" height="300px" alt="Pokédex preview"/></a>
         </p>
@@ -98,7 +98,7 @@ LLM APIs · MCP · RAG · Agentic tools · AI-augmented engineering
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center"><a href="#" target="_blank" rel="noreferrer">Renardor's Revenge 🦊</a></h3>
+        <h3 align="center">Renardor's Revenge 🦊</h3>
         <p align="center">
           <video src="https://github.com/user-attachments/assets/6dc90891-3333-4596-baa5-99cc14ce4c6c"></video>
         </p>
@@ -109,7 +109,7 @@ LLM APIs · MCP · RAG · Agentic tools · AI-augmented engineering
         </details>
       </td>
       <td width="50%">
-        <h3 align="center"><a href="#" target="_blank" rel="noreferrer">Chemin Montessori 👼🏼</a></h3>
+        <h3 align="center">Chemin Montessori 👼🏼</h3>
         <p align="center">
           <a href="#" target="_blank" rel="noreferrer"><img src="./static/montessori.gif" alt="Chemin Montessori preview"/></a>
         </p>
